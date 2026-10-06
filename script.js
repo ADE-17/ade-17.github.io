@@ -58,7 +58,7 @@ function renderPubItem(pub, authorName, includeDetails = false) {
     const thumbSrc = pub.thumbnail || 'assets/photos/logo.png';
     return `
       <li class="pub-item" data-year="${pub.year}" data-tags="${(pub.tags || []).join(' ')}">
-        <img class="pub-thumb" src="${thumbSrc}" alt="Paper thumbnail" loading="lazy" data-lightbox>
+        <img class="pub-thumb${pub.thumbnailFit === 'contain' ? ' pub-thumb--contain' : ''}" src="${thumbSrc}" alt="Figure from ${pub.title || 'paper'}" loading="lazy" data-lightbox>
         <div class="pub-content">
           <div class="pub-title">${pub.title || 'Untitled'}</div>
           <div class="pub-authors">${highlightAuthor(pub.authors, authorName)}</div>

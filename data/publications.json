@@ -9,7 +9,8 @@
       "first-author",
       "fairness"
     ],
-    "thumbnail": "assets/photos/logo.png",
+    "thumbnail": "assets/photos/invariance-overview.jpg",
+    "thumbnailFit": "contain",
     "description": "Shows theoretically and empirically that enforcing demographic representation invariance is neither sufficient nor always desirable for fairness—and can hamper bias mitigation or create new biases.",
     "links": {
       "paper": "",
@@ -46,7 +47,8 @@
       "fairness",
       "label-bias"
     ],
-    "thumbnail": "assets/photos/1.png",
+    "thumbnail": "assets/photos/label-bias-overview.jpg",
+    "thumbnailFit": "contain",
     "description": "Label bias is insidious: We measure and mitigate it in image segmentation without clean, unbiased ground truth labels even when standard metrics don't allow. We also show a subgroup separability effect induced due to label bias.",
     "links": {
       "paper": "",
