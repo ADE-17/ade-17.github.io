@@ -1,5 +1,23 @@
 [
   {
+    "title": "Is Invariance All You Need for Algorithmic Fairness? Removing Demographic Information Can Create New Bias",
+    "authors": "Aditya Parikh, Eike Petersen, Stella Frank, Enzo Ferrante, Melanie Ganz, Aasa Feragen",
+    "venue": "arXiv preprint",
+    "year": 2026,
+    "tags": [
+      "preprint",
+      "first-author",
+      "fairness"
+    ],
+    "thumbnail": "assets/photos/logo.png",
+    "description": "Shows theoretically and empirically that enforcing demographic representation invariance is neither sufficient nor always desirable for fairness—and can hamper bias mitigation or create new biases.",
+    "links": {
+      "paper": "",
+      "arxiv": "https://arxiv.org/abs/2609.32004",
+      "code": ""
+    }
+  },
+  {
     "title": "False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation",
     "authors": "Linus Juni, Aasa Feragen, Aditya Parikh",
     "venue": "MICCAI FAIMI Workshop",
@@ -20,10 +38,10 @@
   {
     "title": "Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation",
     "authors": "Aditya Parikh, Stella Frank, Sneha Das, Aasa Feragen",
-    "venue": "Under review",
+    "venue": "NeurIPS",
     "year": 2026,
     "tags": [
-      "under-review",
+      "accepted",
       "first-author",
       "fairness",
       "label-bias"

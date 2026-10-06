@@ -1,5 +1,20 @@
 [
   {
+    "date": "October 2026",
+    "title": "Presented at MICCAI 2026 in Strasbourg",
+    "details": "Presented our work, 'Measuring What VLMs Don't Say,' at MICCAI 2026 in Strasbourg, France."
+  },
+  {
+    "date": "September 2026",
+    "title": "Paper Accepted at NeurIPS 2026",
+    "details": "A major milestone: our work, 'Towards Fairness under Label Bias in Image Segmentation,' was accepted at NeurIPS 2026."
+  },
+  {
+    "date": "September 2026",
+    "title": "New Preprint: Is Invariance All You Need for Algorithmic Fairness?",
+    "details": "Our new work shows that removing demographic information can hamper bias mitigation and even create new biases."
+  },
+  {
     "date": "August 2026",
     "title": "Attended EEML Summer School by DeepMind",
     "details": "Presented a poster from 26th July to 2nd August."

@@ -126,6 +126,18 @@
   ],
   "photography": [
     {
+      "title": "Presenting at MICCAI 2026",
+      "caption": "With my poster for 'Measuring What VLMs Don't Say' at MICCAI 2026 in Strasbourg, France.",
+      "src": "assets/photos/miccai_poster.jpeg",
+      "alt": "Aditya Parikh with his MICCAI 2026 poster in Strasbourg"
+    },
+    {
+      "title": "Research Conversations at MICCAI",
+      "caption": "Discussing research during the MICCAI 2026 poster sessions in Strasbourg.",
+      "src": "assets/photos/explaining_my_poster_miccai.jpeg",
+      "alt": "Aditya Parikh discussing research at a MICCAI 2026 poster session"
+    },
+    {
       "title": "Attended EEML Summer School",
       "caption": "Group photo at the Eastern European Machine Learning (EEML) Summer School by DeepMind.",
       "src": "assets/photos/eeml_group.jpg",
@@ -156,5 +168,5 @@
       "alt": "Medical Image Segmentation Bias"
     }
   ],
-  "lastUpdated": "2026-05-14"
+  "lastUpdated": "2026-10-06"
 }

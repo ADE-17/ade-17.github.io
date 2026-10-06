@@ -18,6 +18,7 @@ const ICONS = {
 
 const TAG_LABELS = {
   'oral': 'Oral',
+  'preprint': 'Preprint',
   'under-review': 'Under Review',
   'accepted': 'Accepted',
   'first-author': '1st Author',
